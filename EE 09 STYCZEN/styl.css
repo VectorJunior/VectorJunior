@@ -1,0 +1,45 @@
+body{
+    font-family: Tahoma;
+    background-color: crimson;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;  
+}
+#baner{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+
+#Mecz{
+    color: white;
+    text-align: center;
+    width: 200px;
+    margin: 9px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#Mecz:hover{
+    border-color: white;
+}
+
+main{
+    background-color: whitesmoke;
+    height: 50px;
+}
+#lewy{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+}
+
+#prawy{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: center;
+}
