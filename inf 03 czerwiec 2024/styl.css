@@ -1,0 +1,49 @@
+body{
+    font-family: Helvetica;
+    background-color: navajowhite;
+}
+
+header{
+    background-color: sienna;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: sienna;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+#prawy{
+    background-color: navajowhite;
+    position: relative;
+    left: 85%;
+    bottom: 698px;
+    width: 15%;
+    height: 700px;
+    float: left;   
+}
+#srodek{
+    width: 15%;
+    height: 700px;
+    overflow: scroll;
+    width: 65%;
+    background-color: white;
+}
+#lewy{
+    background-color: navajowhite;
+    width: 15%;
+    height: 700px;
+    float: left;   
+}
+
+
+
+img{
+    width: 80%;
+    display: inline;
+}
+
